@@ -13,7 +13,7 @@ public class App
     {
     	Random a=new Random();
     	Date b=new Date();
-    	System.out.println(b.toLocaleString());
+    	System.out.println("当前时间："+b.toLocaleString());
     	System.out.println(a.nextInt());
         System.out.println( "Hello World!" );
     }
