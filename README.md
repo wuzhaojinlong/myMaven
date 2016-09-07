@@ -1,2 +1,0 @@
-# myMaven
-maveTest
